@@ -5,6 +5,7 @@
  *
  * @package PhpMyAdmin
  */
+
 use PhpMyAdmin\Charsets;
 use PhpMyAdmin\Config;
 use PhpMyAdmin\Core;
